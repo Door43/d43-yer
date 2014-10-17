@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yer:home|Door43 (yer)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yer|d43-yer repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yer/archive/master.zip|d43-yer.zip]]
+
+**Recent Changes**
+{{changes>ns = yer}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yer|Ethnologue data]]
+
